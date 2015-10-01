@@ -1,0 +1,44 @@
+/* Publication table */
+#publicationsTable {
+    border: 1px solid black;
+    padding: 15px;
+    color: black;
+}
+
+#publicationsTable td {
+    border: 1px solid black;
+    padding: 15px;
+    background: #EBEBEB;
+}
+#publicationsTable th {
+    border: 1px solid black;
+    padding: 15px;
+    background: #D0D0D0;
+}
+
+/* blurred border main foto */
+#mainPhoto {
+    -webkit-box-shadow: inset 0px 0px 50px 50px #3b73fc; /* WebKit */
+    -moz-box-shadow: inset 0px 0px 50px 50px #3b73fc; /* Firefox */
+    box-shadow: inset 0px 0px 50px 50px #3b73fc; /* Standard */
+}
+
+/* makes the cursor into a link-cursor on mouse over the table headers */
+.sortableHeader {
+    cursor: pointer;
+}
+
+/* removes the bullit points from a list */
+.no_points li {
+    list-style-type: none;
+}
+
+/* marks links by underscore only */
+.special_links a {
+    text-decoration: underline;
+}
+
+/* link color in special table */
+#publicationsTable a:active {
+    color: black;
+}
