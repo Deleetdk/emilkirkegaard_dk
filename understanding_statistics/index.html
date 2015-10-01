@@ -1,0 +1,83 @@
+ <!DOCTYPE html>
+
+<head>
+<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+<meta content="utf-8" http-equiv="encoding">
+
+ <title>Understanding statistics through interactive visualizations</title>
+
+ <!-- Scholar tags-->
+  <meta name="citation_title" content="Understanding statistics through interactive visualizations<"/>
+  <meta name="citation_author" content="Kirkegaard, Emil O. W."/>
+  <meta name="citation_publication_date" content="2015/06/07"/>
+
+  <script type="text/javascript">
+  	function getParameterByName(name) {
+	    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+	    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+	        results = regex.exec(location.search);
+	    return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+	}
+
+    function addParam(url, param, value) {
+       var a = document.createElement('a'), regex = /(?:\?|&amp;|&)+([^=]+)(?:=([^&]*))*/g;
+       var match, str = []; a.href = url; param = encodeURIComponent(param);
+       while (match = regex.exec(a.search))
+           if (param != match[1]) str.push(match[1]+(match[2]?"="+match[2]:""));
+       str.push(param+(value?"="+ encodeURIComponent(value):""));
+       a.search = str.join("&");
+       return a.href;
+    }
+
+    function loadApp(app) {
+    	window.location = addParam(window.location.href, 'app', app);
+    }
+
+  </script>
+
+ <link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+
+<body>
+<h1>Understanding statistics through interactive visualizations</h1>
+<p>Statistical concepts can be difficult to understand from words and equations alone but understanding can come more easily if one gets to play with some numbers. This page features a number of interactive visualizations made to increase the reader's understanding of important statistical concepts.</p>
+<p>The following visualizations are currently available</p>
+<ul>
+	Statistical methods
+	<li><span class="pseudoLink" onclick="loadApp('classification_multiple_predictors')">Classification using multiple predictors</span></li>
+	Statistical artifacts
+	<li><span class="pseudoLink" onclick="loadApp('restriction_of_range')">Restriction of range</span></li>
+	<li><span class="pseudoLink" onclick="loadApp('ceiling_effects')">Ceiling/floor effects and the relationship to a criteria variable</span></li>
+	<li><span class="pseudoLink" onclick="loadApp('ceiling_effects2')">Ceiling/floor effects and the estimation of group differences</span></li>
+	<li><span class="pseudoLink" onclick="loadApp('tail_effects')">Tail effects</span></li>
+	<li><span class="pseudoLink" onclick="loadApp('regression_towards_the_mean')">Regression towards the mean</span></li>
+	<li><span class="pseudoLink" onclick="loadApp('dichotomization_cutoff')">Dichotomization and cut-off values</span></li>
+	<li><span class="pseudoLink" onclick="loadApp('discretization')">Discretization</span></li>
+	<li><span class="pseudoLink" onclick="loadApp('discretization_relative_risk')">Discretization and relative risk</span></li>
+	Test bias
+	<li><span class="pseudoLink" onclick="loadApp('test_bias')">Test bias</span></li>
+	<li><span class="pseudoLink" onclick="loadApp('test_bias_omitted_variable_bias')">Test bias and omitted variable bias</span></li>
+	Paradoxes
+	<li><span class="pseudoLink" onclick="loadApp('Simpson_paradox')">Simpson's paradox</span></li>
+	Psychology
+	<li><span class="pseudoLink" onclick="loadApp('Jensens_method')">Jensen's method</span></li>
+	<li><span class="pseudoLink" onclick="loadApp('Dunning_Kruger')">The Dunning-Kruger effect</span></li>
+</ul>
+
+
+<h3>Dynamic iframe</h3>
+<script type="text/javascript">
+	var a = '<iframe src="http://188.166.78.89:3838/shiny/';
+	var b = getParameterByName('app');
+	var c = '" width="100%" height="1200px"></iframe>'
+	if (b != '') {
+		document.write(a.concat(b, c));
+	} else {
+		document.write('Click one of the above links to see a visualization!')
+	}
+</script>
+
+</body>
+
+</html>
