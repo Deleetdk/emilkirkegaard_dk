@@ -67,11 +67,12 @@
                         <a href="#interests">Interests</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#publications">Publications</a>
-                    </li>
-                    <li class="page-scroll">
                         <a href="#projects">Projects</a>
                     </li>
+                    <li class="page-scroll">
+                        <a href="#publications">Publications</a>
+                    </li>
+                    
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
