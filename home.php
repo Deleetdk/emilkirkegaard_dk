@@ -203,6 +203,10 @@
                             <p>An on-going research project in collaboration with John Fuerst into the psychological traits of immigrants and socioeconomic outcomes in relationship to their countries of origin. So far research strongly confirms that immigrant performance is predicted by country of origin variables. The most pressing concern is writing a review article of the already large body of research.</p>
                         </li>
                         <li>
+                            <h3><a href="http://emilkirkegaard.dk/understanding_statistics/">Understanding statistics through interactive visualizations</a></h3>
+                            <p>An on-going series of interactive visualizations made with <a href="http://shiny.rstudio.com/">Shiny</a> that explain and illustrate statistical concepts.</p>
+                        </li>
+                        <li>
                             <h3>The OKCupid project</h3>
                             <p>OKCupid contains thousands of user-generated questions used for matching persons. Since these answers are public they can be gathered automatically. Since late 2014 we have been scraping the data form OKCupid and currently have a database of some 70,000 unique users and their answers to approximately 2000 questions as well as demographic information. Currently unpublished.</p>
                         </li>
