@@ -154,6 +154,12 @@
                             <li>Evolutionary biology</li>
                         </ul>
                         <li>Open science</li>
+                        <li>Statistics</li>
+                        <ul>
+                            <li>Meta-analysis</li>
+                            <li>Statistical errors and fallacies, publication bias, p-hacking etc.</li>
+                            <li>Spatial statistics</li>
+                        </ul>
                         <li>Political theory</li>
                         <ul>
                             <li>Democractic systems</li>
