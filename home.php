@@ -135,26 +135,39 @@
                         <ul>
                             <li>Cognitive abilities</li>
                             <li>Personality</li>
-                            <li>Behavior genetics</li>
+                            <li>Behavioral genetics</li>
                             <li>Evolutionary psychology</li>
                             <li>Nootropics</li>
                         </ul>
                         <li>Programming/computer science</li>
                         <ul>
                             <li>R</li>
-                            <li>Automatic mixed explorative/confirmatory methods</li>
+                            <li>Interactive visualizations</li>
+                            <li>Automatic analysis methods</li>
                             <li>Machine learning</li>
                             <li>Data scraping</li>
-                            <li>Python</li>
+                            <li>Text mining</li>
+                        </ul>
+                        <li>Biology</li>
+                        <ul>
+                            <li>Population genetics</li>
+                            <li>Evolutionary biology</li>
                         </ul>
                         <li>Open science</li>
                         <li>Political theory</li>
+                        <ul>
+                            <li>Democractic systems</li>
+                        </ul>
                         <li>Linguistics</li>
                         <ul>
                             <li>Spelling systems (focus on Danish)</li>
                             <li>Language planning/reform</li>
                         </ul>
                         <li>Game studies/ludology</li>
+                        <ul>
+                            <li>DOTA 2</li>
+                            <li>RTS-type games</li>
+                        </ul>
                         <li>Evidence-based policies</li>
                         <ul>
                             <li>Immigration</li>
