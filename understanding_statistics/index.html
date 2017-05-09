@@ -54,7 +54,8 @@
 	<li><span class="pseudoLink" onclick="loadApp('regression_towards_the_mean')">Regression towards the mean</span></li>
 	<li><span class="pseudoLink" onclick="loadApp('dichotomization_cutoff')">Dichotomization and cut-off values</span></li>
 	<li><span class="pseudoLink" onclick="loadApp('discretization')">Discretization</span></li>
-	<li><span class="pseudoLink" onclick="loadApp('discretization_relative_risk')">Discretization and relative risk</span></li>
+	Statistical fallacies
+	<li><span class="pseudoLink" onclick="loadApp('NHST_subgroup_fallacy')">The NHST subgroup fallacy</span></li>
 	Test bias
 	<li><span class="pseudoLink" onclick="loadApp('test_bias')">Test bias</span></li>
 	<li><span class="pseudoLink" onclick="loadApp('test_bias_omitted_variable_bias')">Test bias and omitted variable bias</span></li>
@@ -63,6 +64,8 @@
 	Psychology
 	<li><span class="pseudoLink" onclick="loadApp('Jensens_method')">Jensen's method</span></li>
 	<li><span class="pseudoLink" onclick="loadApp('Dunning_Kruger')">The Dunning-Kruger effect</span></li>
+	Political science
+	<li><span class="pseudoLink" onclick="loadApp('brexit_model')">Predictive modeling of Brexit using LOESS</span></li>
 </ul>
 
 
@@ -70,7 +73,7 @@
 <script type="text/javascript">
 	var a = '<iframe src="http://188.166.78.89:3838/shiny/';
 	var b = getParameterByName('app');
-	var c = '" width="100%" height="1200px"></iframe>'
+	var c = '" width="100%" height="1250px"></iframe>'
 	if (b != '') {
 		document.write(a.concat(b, c));
 	} else {
