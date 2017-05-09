@@ -72,6 +72,12 @@
                     <li class="page-scroll">
                         <a href="#publications">Publications</a>
                     </li>
+                    <li>
+                        <a href="/en">English blog</a>
+                    </li>
+                    <li>
+                        <a href="/da">Danish blog</a>
+                    </li>
                     
                 </ul>
             </div>
@@ -88,7 +94,7 @@
                     <img class="img-responsive" id="mainPhoto" src="img/profile.png" alt="">
                     <div class="intro-text">
                         <span class="name">Emil Ole William Kirkegaard</span>
-                        <span class="skills">Polymath scientist, maybe</span>
+                        <span class="skills">Scientist etc.</span>
                     </div>
                 </div>
             </div>
@@ -105,12 +111,11 @@
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 special_links">
-                    <p>I am a 27 year old polymath wannabe(?), see very long list of interests <a href="#interests">below</a>. I am mostly self-taught in various subjects. I have a linguistics bachelor from University of Aarhus, Denmark (<a href="http://lyddansk.dk/?p=226">my bachelor thesis</a> concerned spelling reform with a focus on a proposal for Danish I developed in my spare time in 2009). Basically, it's an irrelevant degree that allowed me to live off a <a href='http://www.su.dk/english/state-educational-grant-and-loan-scheme-su/'>student grant</a>.</p>
-                    <p>I write lots of stuff on <a href="/en">my English language blog</a>, although I also have <a href="/da">a Danish one</a> and even <a href="/eo">an inactive Esperanto one</a>. My more formal academic publications can be found <a href="#publications">further down this page</a> but lots of more original data analyses can be found on my blogs.</p>
-                    <p>Along with <a href="https://www.researchgate.net/profile/Davide_Piffer">Davide Piffer</a> I started an <a href="https://en.wikipedia.org/wiki/Open_science">open science publisher</a>, <a href="http://openpsych.net/">OpenPsych</a>, which offers free to publish, <a href="http://openpsych.net/forum/showthread.php?tid=5">open peer review</a>, open access, open data etc. The journals mostly publish stuff related to individual and group differences in cognitive ability, personality and the associated socioeconomic outcomes.</p>
-                    <p>I have yet to find any major political ism that is in line with my beliefs, but <a href="http://raikoth.net/libertarian.html">Scott Alexander's essay against libertarianism</a> comes pretty close. Briefly put, the main political ideologies were invented before we had much of a clue how the world worked and so it would be a miracle if any one of them got it just right. I favor scientific rationalism and apply the same approach to politics. My meta-politics stance is consequentialism. I favor whatever has the best outcomes no matter which ideology it is in line with. I have been active in the Danish <a href="https://en.wikipedia.org/wiki/Pirate_Party">Pirate Party</a> in relation to internet freedoms, civil liberties (real ones, not those pushed by social justice warriors) and <a href="https://www.goodreads.com/book/show/3770306-against-intellectual-monopoly">harmful intellectual monopolies</a>.</p>
-                    <p>I can be found many places, but am especially active on <a href="https://twitter.com/KirkegaardEmil">Twitter</a> with science related things. I can also be found on <a href="http://www.goodreads.com/user/show/8884040-emil-kirkegaard">Goodreads</a>, <a href="https://www.researchgate.net/profile/Emil_O_W_Kirkegaard">ResearchGate</a>, <a href="http://scholar.google.dk/citations?user=VKUbfSIAAAAJ&amp;hl=en">Google Scholar</a>, <a href="https://github.com/Deleetdk/">GitHub</a>, <a href="https://osf.io/a2yfn/">Open Science Framework</a>, <a href="https://www.facebook.com/emilkirkegaard">Facebook</a>, <a href="https://plus.google.com/u/0/105966274782785141105/posts">Google+</a>, <a href="https://www.linkedin.com/profile/view?id=279385313">LinkedIn</a>, <a href="http://lastfm.com/user/deleetdk">LastFM</a>, and probably some other places.</p>
-                    <p>You can contact me (my first name)@emilkirkegaard.(<a href="https://en.wikipedia.org/wiki/Country_code_top-level_domain">Danish TLD</a>) or on <a href="https://en.wikipedia.org/wiki/Tox_%28protocol%29">Tox</a> with <a href="tox:1728E9D22CDDDDBE314E002843E7F57A20365D40CF0F6B26803AD68A163E82710C78A5213A9B">this ID</a>. If you don't know which client to use, try <a href="https://github.com/tux3/qTox">qTox</a>. If you really want to send me something sensitive, <a href="Emil_OW_Kirkegaard_public_key.txt">here's my public GPG key</a>.</p>
+                    <p>I am a 27 year old sciency person with diverse interests and a can-do attitude. I'm currently mostly interested in differential psychology, psychological sociology, behavioral genetics, genomics and reproductive genetics. Earlier I studied linguistics and philosophy and have a bachelor in the first (you can <a href="http://lyddansk.dk/?p=226">read my thesis</a>).</p>
+                    <p>I write stuff on <a href="/en">my English</a> and <a href="/da">Danish-language</a> blogs. Writings of a more political nature can be found at <i><a href="http://teknologipartiet.dk/">Teknologipartiet</a></i>, a Danish evidence-based policy grey tribe think-tank. More formal publications can be found <a href="#publications">further down this page</a> but many original analyses can be found only on the blogs.</p>
+                    <p>Along with <a href="https://www.researchgate.net/profile/Davide_Piffer">Davide Piffer</a> I started an <a href="https://en.wikipedia.org/wiki/Open_science">open science publisher</a>, <a href="http://openpsych.net/">OpenPsych</a>, which offers free to publish, <a href="http://openpsych.net/forum/showthread.php?tid=5">open peer review</a>, open access, open data etc.</p>
+                    <p>I can be found many places, but am mostly active on <a href="https://twitter.com/KirkegaardEmil">Twitter</a>. I can also be found on <a href="http://www.goodreads.com/user/show/8884040-emil-kirkegaard">Goodreads</a>, <a href="https://www.researchgate.net/profile/Emil_O_W_Kirkegaard">ResearchGate</a>, <a href="http://scholar.google.dk/citations?user=VKUbfSIAAAAJ&amp;hl=en">Google Scholar</a>, <a href="https://www.linkedin.com/profile/view?id=279385313">LinkedIn</a>, <a href="http://lastfm.com/user/deleetdk">LastFM</a>, and probably some other places.</p>
+                    <p>You can contact me at emil@emilkirkegaard.dk, and on <a href="http://riot.im/">riot.im</a> at "@emilowk:matrix.org".</p>
                 </div>
             </div>
         </div>
@@ -127,7 +132,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                        <p>My interests are very broad, but for the moment I am mainly focused on psychology, sociology, statistics and  programming. A non-exhaustive list of areas of interest can be seen below. I have ranked them roughly by current interest level.</p>
+                        <p>My wake time / interests ratio is too small.</p>
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-left">
                     <ul>
@@ -174,7 +179,7 @@
                             <li>DOTA 2</li>
                             <li>RTS-type games</li>
                         </ul>
-                        <li>Evidence-based policies</li>
+                        <li>Evidence-based politics</li>
                         <ul>
                             <li>Immigration</li>
                             <li>Civil rights</li>
@@ -211,31 +216,27 @@
                     <ul class="no_points">
                         <li>
                             <h3><a href="http://openpsych.net/">OpenPsych</a></h3>
-                            <p>An open access, free-to-publish, data-sharing, open peer review metajournal right now focusing on differential psychology and behavioral genetics but we will expand.</p>
+                            <p>An open access, free-to-publish, data-sharing, open peer review metajournal right now convering differential psychology, behavioral genetics, sociology and political science.</p>
                         </li>
                         <li>
                             <h3>The general socioeconomic factor (S factor)</h3>
-                            <p>An on-going research project into the general factor of socioeconomic inequality at various levels of analysis: countries and <a href="https://en.wikipedia.org/wiki/Table_of_administrative_divisions_by_country">various administrative divisions within countries</a>, immigrants classified by country of origin, persons classified by first or last names, and so on. The most pressing concern is writing a review article summarizing the many studies I have carried out so far.</p>
+                            <p>In numerous analyses of diverse datasets of socioeconomic data I have found that essentially everything good tends to be positively related to everything else good. This forms the bases of what I call the <i>general socioeconomic factor</i> (by analogy general cognitive factor). An on-going research project into the general factor of socioeconomic inequality at various levels of analysis: countries, administrative divisions within countries, immigrants classified by country of origin, persons classified by first or last names, and so on.</p>
                         </li>
                         <li>
-                            <h3>Spatial transferability hypothesis</h3>
-                            <p>An on-going research project in collaboration with John Fuerst into the psychological traits of immigrants and socioeconomic outcomes in relationship to their countries of origin. So far research strongly confirms that immigrant performance is predicted by country of origin variables. The most pressing concern is writing a review article of the already large body of research.</p>
+                            <h3>Immigrance performance and prediction</h3>
+                            <p>An on-going research project in collaboration with <a href="https://www.researchgate.net/profile/John_Fuerst3">John Fuerst</a> into the psychological traits of immigrants and socioeconomic outcomes in relationship to their countries of origin. Studies of numerous datasets show that immigrant performance is very predictable from country of origin variables, and quite consistent between host countries.</p>
                         </li>
                         <li>
                             <h3><a href="http://emilkirkegaard.dk/understanding_statistics/">Understanding statistics through interactive visualizations</a></h3>
                             <p>An on-going series of interactive visualizations made with <a href="http://shiny.rstudio.com/">Shiny</a> that explain and illustrate statistical concepts.</p>
                         </li>
                         <li>
-                            <h3>The OKCupid project</h3>
-                            <p>OKCupid contains thousands of user-generated questions used for matching persons. Since these answers are public they can be gathered automatically. Since late 2014 we have been scraping the data form OKCupid and currently have a database of some 70,000 unique users and their answers to approximately 2000 questions as well as demographic information. Currently unpublished.</p>
+                            <h3>The Vietnam Experience Study dataset</h3>
+                            <p>Along with <a href="http://helmuthnyborg.dk/">Helmuth Nyborg</a>, I am working on releasing a fully coded version of the Vietnam Experience Study for others to use.</p>
                         </li>
                         <li>
-                            <h3><a href="http://lyddansk.dk">Lyddansk</a></h3><br>
-                            <p>A website arguing the benefits of spelling reform with a focus on Danish (in Danish).</p>
-                        </li>
-                        <li>
-                            <h3><a href="http://legaliser.nu">Legaliser.nu</a></h3><br>
-                            <p>A website arguing the benefits of legalization of psychoactive drugs (in Danish).</p>
+                            <h3><a href="http://teknologipartiet.dk">Teknologipartiet (Danish)</a></h3><br>
+                            <p>A grey tribe-ish Think Tank for Denmark related science and policy.</p>
                         </li>
                     </ul>
                 </div>
@@ -254,8 +255,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p>Since there are high costs in time, and sometimes money as well, associated with publishing in pre-publication review journals and in many cases <a href="https://en.wikipedia.org/wiki/Scholarly_peer_review#Criticism_of_peer_review">a relatively small benefit</a> aside from reputational gain, I often publish in outlets with no prior review.</p>
-                    <p>The list below contains my more formal publications and is sortable in various ways. To be notified in case of new publications, follow me on <a href="https://www.researchgate.net/profile/Emil_O_W_Kirkegaard">ResearchGate</a> or  <a href="http://scholar.google.dk/citations?user=VKUbfSIAAAAJ&amp;hl=en">Google Scholar</a>.</p>
+                    <p>The list below contains my more formal publications and is sortable in various ways. To be notified in case of new publications, follow me on <a href="http://twitter.com/KirkegaardEmil">Twitter</a>, <a href="https://www.researchgate.net/profile/Emil_O_W_Kirkegaard">ResearchGate</a> or <a href="http://scholar.google.dk/citations?user=VKUbfSIAAAAJ&amp;hl=en">Google Scholar</a>.</p>
                 </div>
                 <div class="col-lg-12 text-left">
                 <?php
